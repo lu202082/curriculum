@@ -34,8 +34,8 @@ let c7=document.getElementById("c7");
         }
 
     c6.onclick = function(){
-        document.getElementById("8").innerHTML="Estudios: ";
-        document.getElementById("9").innerHTML="Bachiller - Programador Web";
+        document.getElementById("c8").innerHTML="Estudios: ";
+        document.getElementById("c9").innerHTML="Bachiller - Programador Web";
                 
         }
 
